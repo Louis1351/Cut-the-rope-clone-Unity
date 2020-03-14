@@ -1,2 +1,2 @@
 # Cut-the-rope-clone
- A student project which is an Cut the rope like game.
+ A student project which is a Cut the rope like game.
