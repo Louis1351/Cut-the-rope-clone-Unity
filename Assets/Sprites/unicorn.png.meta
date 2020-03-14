@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: f4c99435a43200c449daa3776a1ecdbc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: unicorn_0
+    21300002: unicorn_1
+    21300004: unicorn_2
+    21300006: unicorn_3
+    21300008: unicorn_4
+    21300010: unicorn_5
+    21300012: unicorn_6
+    21300014: unicorn_7
+    21300016: unicorn_8
+    21300018: unicorn_9
+    21300020: unicorn_10
+    21300022: unicorn_11
+    21300024: unicorn_12
+    21300026: unicorn_13
+    21300028: unicorn_14
+    21300030: unicorn_15
+    21300032: unicorn_16
+    21300034: unicorn_17
+    21300036: unicorn_18
+    21300038: unicorn_19
+    21300040: unicorn_20
+    21300042: unicorn_21
+    21300044: unicorn_22
+    21300046: unicorn_23
+    21300048: unicorn_24
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unicorn_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3439
+        width: 379
+        height: 644
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138fbc83f26d6e848915c359921723d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3455
+        width: 374
+        height: 628
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ea67faae70a9e4ebcfa1b543fee909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_2
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3472
+        width: 376
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6930860305537544d97e0e67373926b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_3
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 3487
+        width: 374
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abee4cbab865c140b83c85a31114ff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_4
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3471
+        width: 378
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a3f24f934e3b418398c22b572e90b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2800
+        width: 375
+        height: 629
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9b9621f7396854482f36f208937928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2784
+        width: 374
+        height: 645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e466a2fbc266fd40beedf720ddf851c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_7
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2831
+        width: 376
+        height: 598
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07736767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e9e16986beb54993972901dbd2e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_8
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2880
+        width: 374
+        height: 552
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08700119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ad8abcd9a5094caf9d422ff2c645f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_9
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2935
+        width: 377
+        height: 494
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08910144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a9044dfe91e8747a4320ed79855d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2313
+        width: 376
+        height: 462
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.09813132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca14abe63a51a044bc6fa8958cb8aa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2311
+        width: 374
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09258823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb25ed1e4ae945346bb99edb54b29670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2279
+        width: 376
+        height: 497
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09271596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172c876df67e2bd45b9c268684fb95c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_13
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2229
+        width: 374
+        height: 547
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07983443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6232965ff4d90a04b8a8b83f9452895b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_14
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 2176
+        width: 376
+        height: 599
+      alignment: 9
+      pivot: {x: 0.5, y: 0.077504665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72eb35aa7514bd408372efb4dcbc802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1525
+        width: 379
+        height: 644
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07026417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16a03027699b044ba9d2b7151949db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1525
+        width: 374
+        height: 644
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a51e88790532c143b823ec9a63ea889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_17
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1549
+        width: 379
+        height: 618
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07050825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e82b82937647f5429ea093b13e54ba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_18
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1525
+        width: 374
+        height: 644
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f4da433a20e664b8f830e3b4318d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_19
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1535
+        width: 377
+        height: 632
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abb6f6d2867a2b459ae0b488a883420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 873
+        width: 376
+        height: 642
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06911075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff276d509cc5fe43b96b5551fe47d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 880
+        width: 392
+        height: 635
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07438917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d494a98c0c7f3f24193c6a5a1aafa43f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_22
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 903
+        width: 417
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07458765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05a1add443ba0749a2c756a737c8e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_23
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 920
+        width: 374
+        height: 595
+      alignment: 9
+      pivot: {x: 0.5, y: 0.076152384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bd69e021d2e054e8ae846ed7a88f65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_24
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 949
+        width: 375
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.076985925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef59b7d9ba46764da2c5d00161850dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 469d3af1cdeb1984e96f9862302f8633
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
